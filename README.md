@@ -1,2 +1,0 @@
-# autovisitor
-AUTO VISITOR BLOG IN PHP CLI
