@@ -20,7 +20,7 @@ echo "_   _                 _
 |  _  |  __/ (_| | |  | |_ / /
 |_| |_|\___|\__,_|_|   \__/___|\n\n";
 
-echo " God Can Stop Me :D \n ";
+echo " Only God Can Stop Me :D \n ";
 echo " $merah INFO! ";
 echo file_get_contents("https://pastebin.com/raw/k4qabq9K");
 echo " \n";
